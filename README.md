@@ -92,13 +92,13 @@
 
 <h3 align="center">🅢🅣🅐🅣🅢</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanket3yoprogrammer&show_icons=true&locale=en&layout=compact&theme=dark" alt="sanket3yoprogrammer" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanket3yoprogrammer&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha&no-fram e=true&no-bg=false&margin-w=4" alt="sanket3yoprogrammer" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanket3yoprogrammer&show_icons=true&hide_border=true&locale=en&theme=" alt="sanket3yoprogrammer" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanket3yoprogrammer&show_icons=true&hide_border=true&locale=en&theme=catppuccin_mocha&no-fram e=true&no-bg=false&margin-w=4" alt="sanket3yoprogrammer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanket3yoprogrammer&theme=dark" alt="sanket3yoprogrammer" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanket3yoprogrammer&theme=catppuccin_mocha&no-fram e=true&no-bg=false&margin-w=4" alt="sanket3yoprogrammer" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanket3yoprogrammer" alt="sanket3yoprogrammer" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanket3yoprogrammer&theme=catppuccin_mocha&no-fram e=true&no-bg=false&margin-w=4" alt="sanket3yoprogrammer" /></a> </p>
 
 ```js
 // Check if the code is functioning correctly
