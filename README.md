@@ -92,13 +92,14 @@
 
 <h3 align="center">🅢🅣🅐🅣🅢</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanket3yoprogrammer&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha&no-fram e=true&no-bg=false&margin-w=4" alt="sanket3yoprogrammer" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanket3yoprogrammer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=catppuccin_mocha&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Sanket3yoprogrammer&locale=en&mode=daily&theme=catppuccin_mocha&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanket3yoprogrammer&locale=en&hide_title=false&layout=default&card_width=320&langs_count=20&theme=catppuccin_mocha&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanket3yoprogrammer&show_icons=true&hide_border=true&locale=en&theme=catppuccin_mocha&no-fram e=true&no-bg=false&margin-w=4" alt="sanket3yoprogrammer" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanket3yoprogrammer&theme=catppuccin_mocha&no-fram e=true&no-bg=false&margin-w=4" alt="sanket3yoprogrammer" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanket3yoprogrammer&theme=catppuccin_mocha&no-fram e=true&no-bg=false&margin-w=4" alt="sanket3yoprogrammer" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanket3yoprogrammer&theme=catppuccin_mocha&hide_border=true" alt="sanket3yoprogrammer" /></a> </p>
 
 ```js
 // Check if the code is functioning correctly
