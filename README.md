@@ -106,19 +106,17 @@
     <img src="https://github-profile-trophy.vercel.app/?username=sanket3yoprogrammer&column=3&margin-w=15&margin-h=15&theme=algolia&no-bg=false&no-frame=false" alt="trophy" style="display: block; margin: auto;">
   </a>
 </div>
-
-<h2>Random Dev Quote📜</h2>
+<h2 align="center>Random Dev Quote📜</h2>
 <p>2,000</p>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote">
 
 <hr>
 
-<h2>Top Contributed Repo🔼</h2>
+<h2 align="center>Top Contributed Repo🔼</h2>
 <img src="https://github-contributor-stats.vercel.app/api?username=Sanket3yoprogrammer&theme=catppuccino_mocha&combine_all_yearly_contributions=true" alt="contributions">
 
-<h2>Random Dev Meme🤌</h2>
+<h2 align="center">Random Dev Meme🤌</h2>
 <img src="https://memer-new.vercel.app/" style="height: 400px;" alt="meme">
-
 
 ```js
 // Check if the code is functioning correctly
@@ -141,5 +139,5 @@ while(alive) {
 <p align="left">
 </p>
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img href="mailto: sanketkumarpadhan95@gmail.com" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
 </div>
