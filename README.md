@@ -88,9 +88,9 @@
 <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" alt="Babel"/>
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
 </p>
-<img src="https://raw.githubusercontent.com/Sanket3yoprogrammer/Sanket3yoprogrammer/output/snake.svg" alt="Snake animation" />
 
-<h3 align="center">🅢🅣🅐🅣🅢</h3>
+
+<h3 align="center">🅢🅣🅐🅣🅢📊</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sanket3yoprogrammer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=catppuccin_mocha&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -99,7 +99,26 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanket3yoprogrammer&locale=en&hide_title=false&layout=default&card_width=320&langs_count=20&theme=catppuccin_mocha&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=sanket3yoprogrammer&column=3&margin-w=15&margin-h=15&theme=algolia&no-bg=false&no-frame=false)](https://github.com/sanket3yoprogrammer/github-profile-trophy)
+<h3 align="center">🅖🅘🅣🅗🅤🅑 🅣🅡🅞🅟🅗🅘🅔🅢 🏆</h3>
+
+<div style="text-align: center;">
+  <a href="https://github.com/sanket3yoprogrammer/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sanket3yoprogrammer&column=3&margin-w=15&margin-h=15&theme=algolia&no-bg=false&no-frame=false" alt="trophy" style="display: block; margin: auto;">
+  </a>
+</div>
+
+<h2>Random Dev Quote📜</h2>
+<p>2,000</p>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote">
+
+<hr>
+
+<h2>Top Contributed Repo🔼</h2>
+<img src="https://github-contributor-stats.vercel.app/api?username=Sanket3yoprogrammer&theme=catppuccino_mocha&combine_all_yearly_contributions=true" alt="contributions">
+
+<h2>Random Dev Meme🤌</h2>
+<img src="https://memer-new.vercel.app/" style="height: 400px;" alt="meme">
+
 
 ```js
 // Check if the code is functioning correctly
