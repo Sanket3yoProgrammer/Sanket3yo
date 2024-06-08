@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanket Kumar Padhan</h1>
 <h3 align="center">A passionate developer from Odisha, India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sanket3yoprogrammer&label=Profile%20views&color=0400ff&style=flat" alt="sanket3yoprogrammer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket3yoprogrammer&label=Profile%20views&color=0400ff&style=flat" alt="sanket3yoprogrammer" /> </p>
 
 - 🔭 I’m currently working on a social media website [Phg(I have just added random images for preview)](https://github.com/Sanket3yoProgrammer/Pudina.git)
 
