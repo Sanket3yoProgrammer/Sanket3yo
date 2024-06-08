@@ -99,7 +99,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanket3yoprogrammer&locale=en&hide_title=false&layout=default&card_width=320&langs_count=20&theme=catppuccin_mocha&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanket3yoprogrammer&theme=catppuccin_mocha&hide_border=true" alt="sanket3yoprogrammer" /></a> </p>
+ [![trophy](https://github-profile-trophy.vercel.app/?username=sanket3yoprogrammer&column=3&margin-w=15&margin-h=15&theme=algolia&no-bg=false&no-frame=false)](https://github.com/sanket3yoprogrammer/github-profile-trophy)
 
 ```js
 // Check if the code is functioning correctly
