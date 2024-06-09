@@ -1,10 +1,12 @@
-<h1 align="center"> 𝐇𝐢 👋, 𝐈❜𝐦 𝐒𝐚𝐧𝐤𝐞𝐭 𝐊𝐮𝐦𝐚𝐫 𝐏𝐚𝐝𝐡𝐚𝐧 <img src="" alt="waving hand gif" aria-hidden="true" width="40" />
+<h1 align="center"> 𝐇𝐢 👋, 𝐈❜𝐦 𝐒𝐚𝐧𝐤𝐞𝐭 𝐊𝐮𝐦𝐚𝐫 𝐏𝐚𝐝𝐡𝐚𝐧
 </h1>
 <h3 align="center">ᴬ ᵖᵃˢˢⁱᵒⁿᵃᵗᵉ ᵈᵉᵛᵉˡᵒᵖᵉʳ ᶠʳᵒᵐ ᴼᵈⁱˢʰᵃ⸴ ᴵⁿᵈⁱᵃ🇮🇳</h3>
 
 <div align="center">
   <img height="100" src="https://media.tenor.com/uUNcnHwYJQEAAAAi/running-pikachu-transparent-snivee.gif"  />
 </div>
+
+![](https://raw.githubusercontent.com/Sanket3yoprogrammer/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 
 - 🔭 I’m currently working on a social media website [Phg(I have just added random images for preview)](https://github.com/Sanket3yoProgrammer/Pudina.git)
 
