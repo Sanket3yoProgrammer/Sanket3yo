@@ -6,9 +6,8 @@
   <img height="100" src="https://media.tenor.com/uUNcnHwYJQEAAAAi/running-pikachu-transparent-snivee.gif"  />
 </div>
 
-<a href="https://github.com/Sanket3yoprogrammer">
-    <img src="contributions.svg" />
-  </a>
+<br clear="both">
+<img src="https://raw.githubusercontent.com/Sanket3yoprogrammer/Sanket3yoprogrammer/output/snake.svg" alt="Snake animation" />
 
 - 🔭 I’m currently working on a social media website [Phg(I have just added random images for preview)](https://github.com/Sanket3yoProgrammer/Pudina.git)
 
@@ -96,13 +95,15 @@
 
 
 <h3 align="center">🅢🅣🅐🅣🅢📊</h3>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanket3yoprogrammer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=catppuccin_mocha&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Sanket3yoprogrammer&locale=en&mode=daily&theme=catppuccin_mocha&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanket3yoprogrammer&locale=en&hide_title=false&layout=default&card_width=320&langs_count=20&theme=catppuccin_mocha&hide_border=true" height="150" alt="languages graph"  />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanket3yoprogrammer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&hide_border=true&locale=en&order=1&no-bg=false&no-frame=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanket3yoprogrammer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&no-bg=false&no-frame=false" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=Sanket3yoprogrammer&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3&no-bg=false&no-frame=false" height="150" alt="streak graph" style="margin-bottom: -40px;" />
+  <br clear="both">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanket3yoprogrammer&hide_border=true&radius=16&theme=react&area=true&order=5&no-bg=false&no-frame=false" height="300" alt="activity-graph graph" />
+</div>
+
+<br clear="both">
 </div>
 <h2 align="center">Vɪsɪᴛᴏʀs ᴄᴏᴜɴᴛ🚪</h2>
 <div align="center">
