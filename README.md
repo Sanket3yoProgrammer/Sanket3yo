@@ -7,6 +7,7 @@
 </div>
 
 <br clear="both">
+
 <img src="https://raw.githubusercontent.com/Sanket3yoprogrammer/Sanket3yoprogrammer/output/snake.svg" alt="Snake animation" />
 
 - 🔭 I’m currently working on a social media website [Phg(I have just added random images for preview)](https://github.com/Sanket3yoProgrammer/Pudina.git)
