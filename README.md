@@ -6,7 +6,9 @@
   <img height="100" src="https://media.tenor.com/uUNcnHwYJQEAAAAi/running-pikachu-transparent-snivee.gif"  />
 </div>
 
-![GitHub Contribution Snake](https://github.com/Sanket3yoprogrammer/Sanket3yoprogrammer/blob/output/github-contribution-grid-snake.svg)
+<a href="https://github.com/Sanket3yoprogrammer">
+    <img src="contributions.svg" />
+  </a>
 
 - 🔭 I’m currently working on a social media website [Phg(I have just added random images for preview)](https://github.com/Sanket3yoProgrammer/Pudina.git)
 
